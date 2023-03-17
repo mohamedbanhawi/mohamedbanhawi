@@ -24,7 +24,8 @@ message AboutMe {
     name: "Mohamed Elbanhawi",
     from: "🇪🇬",
     live_in: "🇦🇺",
-    languages: [ Python, GO, C, C++, Matlab ]
+    languages: [ Python, GO, C, C++, Matlab ],
+    hobbies: ["📖", "🏍️", "🧙‍♂️", "🏋️"]
   };
 }
 ```
